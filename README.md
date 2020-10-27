@@ -1,0 +1,5 @@
+# GorskiSmeskoApi
+
+
+
+To be continued...
